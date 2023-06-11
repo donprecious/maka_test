@@ -1,0 +1,5 @@
+{
+  "watch": ["src/**/*.proto"],
+  "ext": "proto",
+  "exec": "npm run copy-proto-files"
+}
